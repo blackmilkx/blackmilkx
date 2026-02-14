@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Ian Gachengo]
 
-<!--
-**blackmilkx/blackmilkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [Mathematics and Computer Science at Jomo Kenyatta University of Agriculture and Technology].
+- I'm interested in [Artificial intelligence].
+- I'm looking to collaborate on [various open source projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Machine learning]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Artificial intelligence and Automation](link) — short description
+
+## How to Reach Me
+- Email: [igachengo2019@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/owsman-ian-b6775925b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
