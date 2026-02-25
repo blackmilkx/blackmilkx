@@ -16,7 +16,6 @@
 - 💡 Interested in **Programming, Git and Github, Data Structures**
 - 🤝 Looking to collaborate on **AI controlled irrigation system projects**
 - 🌱 Currently improving my skills in **Git & GitHub**
-
 ---
 
 ## 🛠️ Skills & Tools
