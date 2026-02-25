@@ -6,11 +6,12 @@
 - I'm looking to collaborate on various open source projects.
 
 ## Skills I'm Building
-- Git and GitHub
-- Machine learning.
+- Microsoft office/Google workspace
+- Web development
+- cybersecurity basics
 
 ## Current Projects
-- [Artificial intelligence and Automation](link) — short description
+- Learning how to set up my github profile(link) — short description
 
 ## How to Reach Me
 - Email: [igachengo2019@gmail.com]
